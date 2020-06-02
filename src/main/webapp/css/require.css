@@ -1,0 +1,10 @@
+/*表单居中*/
+.form-center{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+/*改变选中按钮的样式*/
+.checkstyle{
+    width: 20px;
+    height: 20px;
+}
